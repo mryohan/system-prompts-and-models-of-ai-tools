@@ -60,46 +60,6 @@
 
 ---
 
-## ❤️ Support the Project
-
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project.
-
-You can show your support via:
-
-- **Cryptocurrency:**  
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
-- **Patreon:** https://patreon.com/lucknite
-- **Ko-fi:** https://ko-fi.com/lucknite
-
-🙏 Thank you for your support!
-
----
-
-# Sponsors
-
-Sponsor the most comprehensive repository of AI system prompts and reach thousands of developers.
-
-[Get Started](mailto:lucknitelol@proton.me)
-
----
-
-## 🛠 Roadmap & Feedback
-
-> Open an issue.
-
-> **Latest Update:** 08/01/2026
-
----
-
-## 🔗 Connect With Me
-
-- **X:** [NotLucknite](https://x.com/NotLucknite)
-- **Discord**: `x1xhlol`
-- **Email**: `lucknitelol@pm.me`
-
----
 
 ## 🛡️ Security Notice for AI Startups
 
